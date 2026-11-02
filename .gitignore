@@ -1,0 +1,5 @@
+ppt_media/
+.shots/
+*.tmp
+.DS_Store
+Thumbs.db
